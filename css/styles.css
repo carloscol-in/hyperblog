@@ -9,6 +9,11 @@ body{
     border: 1px solid #ddd;
     margin: 0 auto;
 }
+#container #cabecera {
+    background-color: blue;
+    color: white;
+    padding: 1em 0.5em;
+}
 #container h1 {
     font-size: 40px;
 }
